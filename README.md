@@ -13,9 +13,13 @@ We're asking about 15 candidates about 15 questions about their tech-related val
   - tags and tagging
   - social sharing
   - disqus or similar threaded commenting
+  - mailchimp subscription 
+  
 So that: 
   - voters can learn more about their candidates
   - press have ready quotes
+  - people can discuss the issues, suggest improvements, and catch candidates saying the right things
   - OpenOakland can help candidates hold themselves accountable
+  - OpenOakland can cultivate public contacts that want to consume/engage/learn more on our issues
 
  
