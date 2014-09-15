@@ -21,4 +21,7 @@ We're asking about 15 candidates about 15 questions about their tech-related val
   - OpenOakland can help candidates hold themselves accountable
   - OpenOakland can cultivate public contacts that want to consume/engage/learn more on our issues
 
- 
+How we're working: 
+- Github issues
+- Slack (email Phil Wolff to join the OpenOakland team) 
+- Asana for non-site related project issues 
